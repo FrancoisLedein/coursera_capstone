@@ -1,0 +1,101 @@
+;Neighborhood;Postal Code;1st Most Common Venue;2nd Most Common Venue;3rd Most Common Venue;4th Most Common Venue;5th Most Common Venue;6th Most Common Venue;7th Most Common Venue;8th Most Common Venue;9th Most Common Venue;10th Most Common Venue
+0;Malvern, Rouge;M1B;Fast Food Restaurant;Donut Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Drugstore;College Rec Center
+1;Rouge Hill, Port Union, Highland Creek;M1C;Bar;Yoga Studio;Donut Shop;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Drugstore;Dessert Shop
+2;Guildwood, Morningside, West Hill;M1E;Mexican Restaurant;Breakfast Spot;Electronics Store;Intersection;Medical Center;Bank;Rental Car Location;Dog Run;Discount Store;Distribution Center
+3;Woburn;M1G;Coffee Shop;Korean Restaurant;Yoga Studio;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Donut Shop
+4;Cedarbrae;M1H;Bank;Lounge;Hakka Restaurant;Fried Chicken Joint;Athletics & Sports;Thai Restaurant;Caribbean Restaurant;Gas Station;Bakery;Discount Store
+5;Scarborough Village;M1J;Playground;Doner Restaurant;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Donut Shop;College Gym
+6;Kennedy Park, Ionview, East Birchmount Park;M1K;Discount Store;Train Station;Coffee Shop;Bus Station;Department Store;Yoga Studio;Dim Sum Restaurant;Diner;Distribution Center;Dog Run
+7;Golden Mile, Clairlea, Oakridge;M1L;Bus Line;Bakery;Soccer Field;Ice Cream Shop;Bus Station;Metro Station;Park;Dumpling Restaurant;Drugstore;Donut Shop
+8;Cliffside, Cliffcrest, Scarborough Village West;M1M;American Restaurant;Motel;Event Space;Ethiopian Restaurant;Electronics Store;Eastern European Restaurant;Dumpling Restaurant;Drugstore;Donut Shop;Department Store
+9;Birch Cliff, Cliffside West;M1N;College Stadium;Café;Skating Rink;General Entertainment;Dog Run;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Doner Restaurant
+10;Dorset Park, Wexford Heights, Scarborough Town Centre;M1P;Indian Restaurant;Light Rail Station;Chinese Restaurant;Vietnamese Restaurant;Pet Store;Brewery;Electronics Store;Eastern European Restaurant;Dumpling Restaurant;Drugstore
+11;Wexford, Maryvale;M1R;Breakfast Spot;Bakery;Smoke Shop;Middle Eastern Restaurant;Yoga Studio;Doner Restaurant;Discount Store;Distribution Center;Dog Run;Drugstore
+12;Agincourt;M1S;Skating Rink;Lounge;Breakfast Spot;Clothing Store;Latin American Restaurant;Drugstore;Discount Store;Distribution Center;Dog Run;Doner Restaurant
+13;Clarks Corners, Tam O'Shanter, Sullivan;M1T;Pharmacy;Pizza Place;Convenience Store;Italian Restaurant;Fried Chicken Joint;Thai Restaurant;Chinese Restaurant;Gas Station;Bank;Noodle House
+14;Milliken, Agincourt North, Steeles East, L'Amoreaux East;M1V;Playground;Park;Doner Restaurant;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Donut Shop
+15;Steeles West, L'Amoreaux West;M1W;Coffee Shop;Chinese Restaurant;Breakfast Spot;Sandwich Place;Thrift / Vintage Store;Fast Food Restaurant;Bank;Pizza Place;Pharmacy;Grocery Store
+16;Hillcrest Village;M2H;Athletics & Sports;Pool;Golf Course;Mediterranean Restaurant;Dog Run;Yoga Studio;Doner Restaurant;Dim Sum Restaurant;Diner;Discount Store
+17;Fairview, Henry Farm, Oriole;M2J;Clothing Store;Coffee Shop;Fast Food Restaurant;Women's Store;Restaurant;Bank;Bakery;Shoe Store;Japanese Restaurant;Tea Room
+18;Bayview Village;M2K;Café;Bank;Japanese Restaurant;Chinese Restaurant;Yoga Studio;Dog Run;Diner;Discount Store;Distribution Center;Doner Restaurant
+19;York Mills, Silver Hills;M2L;Cafeteria;Park;Doner Restaurant;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Donut Shop
+20;Willowdale, Willowdale East;M2N;Ramen Restaurant;Restaurant;Sandwich Place;Café;Coffee Shop;Pizza Place;Indonesian Restaurant;Sushi Restaurant;Ice Cream Shop;Steakhouse
+21;York Mills West;M2P;Park;Bar;Convenience Store;Yoga Studio;Donut Shop;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant
+22;Willowdale, Willowdale West;M2R;Pizza Place;Pharmacy;Grocery Store;Bank;Butcher;Coffee Shop;Discount Store;Dog Run;Dim Sum Restaurant;Diner
+23;Parkwoods;M3A;Food & Drink Shop;Park;Yoga Studio;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Donut Shop
+24;Don Mills;M3B;Gym / Fitness Center;Caribbean Restaurant;Japanese Restaurant;Athletics & Sports;Café;Construction & Landscaping;Dim Sum Restaurant;Event Space;Ethiopian Restaurant;Electronics Store
+25;Don Mills;M3C;Restaurant;Gym;Coffee Shop;Beer Store;Asian Restaurant;Art Gallery;Sporting Goods Shop;Dim Sum Restaurant;Supermarket;Japanese Restaurant
+26;Bathurst Manor, Wilson Heights, Downsview North;M3H;Coffee Shop;Bank;Pharmacy;Supermarket;Bridal Shop;Shopping Mall;Sandwich Place;Restaurant;Pizza Place;Mobile Phone Shop
+27;Northwood Park, York University;M3J;Falafel Restaurant;Massage Studio;Coffee Shop;Bar;Metro Station;Caribbean Restaurant;Yoga Studio;Doner Restaurant;Discount Store;Distribution Center
+28;Downsview;M3K;Business Service;Airport;Park;Snack Place;Yoga Studio;Doner Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+29;Downsview;M3L;Grocery Store;Bank;Park;Hotel;Shopping Mall;Yoga Studio;Dog Run;Dim Sum Restaurant;Diner;Discount Store
+30;Downsview;M3M;Food Truck;Baseball Field;Yoga Studio;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Donut Shop;Dessert Shop
+31;Downsview;M3N;Gym / Fitness Center;Grocery Store;Athletics & Sports;Liquor Store;Discount Store;Doner Restaurant;Dim Sum Restaurant;Diner;Distribution Center;Dog Run
+32;Victoria Village;M4A;French Restaurant;Coffee Shop;Portuguese Restaurant;Hockey Arena;Intersection;Yoga Studio;Distribution Center;Dessert Shop;Dim Sum Restaurant;Diner
+33;Parkview Hill, Woodbine Gardens;M4B;Pizza Place;Pet Store;Intersection;Café;Breakfast Spot;Athletics & Sports;Gastropub;Bank;Fast Food Restaurant;Gym / Fitness Center
+34;Woodbine Heights;M4C;Skating Rink;Pharmacy;Spa;Park;Bus Stop;Dance Studio;Curling Ice;Beer Store;Dog Run;Diner
+35;The Beaches;M4E;Pub;Health Food Store;Trail;Yoga Studio;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+36;Leaside;M4G;Coffee Shop;Bank;Furniture / Home Store;Burger Joint;Sporting Goods Shop;Restaurant;Department Store;Sushi Restaurant;Supermarket;Fish & Chips Shop
+37;Thorncliffe Park;M4H;Indian Restaurant;Yoga Studio;Bank;Gym;Gas Station;Fast Food Restaurant;Discount Store;Park;Pizza Place;Coffee Shop
+38;East Toronto, Broadview North (Old East York);M4J;Park;Convenience Store;Coffee Shop;Donut Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant
+39;The Danforth West, Riverdale;M4K;Greek Restaurant;Italian Restaurant;Coffee Shop;Furniture / Home Store;Ice Cream Shop;Bookstore;Frozen Yogurt Shop;Pub;Fruit & Vegetable Store;Caribbean Restaurant
+40;India Bazaar, The Beaches West;M4L;Park;Fast Food Restaurant;Pet Store;Brewery;Fish & Chips Shop;Intersection;Steakhouse;Italian Restaurant;Liquor Store;Burrito Place
+41;Studio District;M4M;Café;Coffee Shop;Brewery;Gastropub;American Restaurant;Bakery;Pet Store;Clothing Store;Ice Cream Shop;Stationery Store
+42;Lawrence Park;M4N;Park;Bus Line;Swim School;Yoga Studio;Dog Run;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Doner Restaurant
+43;Davisville North;M4P;Hotel;Gym;Food & Drink Shop;Sandwich Place;Breakfast Spot;Park;Department Store;Dim Sum Restaurant;Diner;Discount Store
+44;North Toronto West, Lawrence Park;M4R;Coffee Shop;Clothing Store;Yoga Studio;Chinese Restaurant;Spa;Sporting Goods Shop;Diner;Fast Food Restaurant;Metro Station;Mexican Restaurant
+45;Davisville;M4S;Sandwich Place;Dessert Shop;Pizza Place;Gym;Sushi Restaurant;Café;Coffee Shop;Italian Restaurant;Discount Store;Flower Shop
+46;Moore Park, Summerhill East;M4T;Tennis Court;Doner Restaurant;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Donut Shop;Deli / Bodega
+47;Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park;M4V;Pub;Coffee Shop;Bagel Shop;Light Rail Station;Sports Bar;Restaurant;Supermarket;Sushi Restaurant;Bank;Liquor Store
+48;Rosedale;M4W;Park;Trail;Playground;Yoga Studio;Department Store;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center
+49;St. James Town, Cabbagetown;M4X;Coffee Shop;Pizza Place;Market;Restaurant;Pub;Bakery;Italian Restaurant;Café;Gift Shop;Deli / Bodega
+50;Church and Wellesley;M4Y;Coffee Shop;Japanese Restaurant;Sushi Restaurant;Gay Bar;Restaurant;Yoga Studio;Bubble Tea Shop;Burger Joint;Pub;Café
+51;Regent Park, Harbourfront;M5A;Coffee Shop;Bakery;Park;Pub;Theater;Café;Breakfast Spot;Distribution Center;Restaurant;Spa
+52;Garden District, Ryerson;M5B;Clothing Store;Coffee Shop;Middle Eastern Restaurant;Bubble Tea Shop;Japanese Restaurant;Café;Italian Restaurant;Cosmetics Shop;Fast Food Restaurant;Diner
+53;St. James Town;M5C;Café;Coffee Shop;Cocktail Bar;American Restaurant;Gastropub;Moroccan Restaurant;Italian Restaurant;Restaurant;Lingerie Store;Clothing Store
+54;Berczy Park;M5E;Coffee Shop;Cocktail Bar;Bakery;Seafood Restaurant;Café;Cheese Shop;Restaurant;Beer Bar;Bistro;Farmers Market
+55;Central Bay Street;M5G;Coffee Shop;Sandwich Place;Italian Restaurant;Japanese Restaurant;Café;Dessert Shop;Middle Eastern Restaurant;Thai Restaurant;Department Store;Salad Place
+56;Richmond, Adelaide, King;M5H;Coffee Shop;Café;Restaurant;Hotel;Deli / Bodega;Gym;Thai Restaurant;Bookstore;Salad Place;Steakhouse
+57;Harbourfront East, Union Station, Toronto Islands;M5J;Coffee Shop;Aquarium;Café;Hotel;Brewery;Restaurant;Fried Chicken Joint;Sporting Goods Shop;Scenic Lookout;Bar
+58;Toronto Dominion Centre, Design Exchange;M5K;Coffee Shop;Hotel;Café;Restaurant;Seafood Restaurant;Salad Place;Japanese Restaurant;Italian Restaurant;American Restaurant;Concert Hall
+59;Commerce Court, Victoria Hotel;M5L;Coffee Shop;Café;Restaurant;Hotel;Gym;American Restaurant;Seafood Restaurant;Italian Restaurant;Japanese Restaurant;Gastropub
+60;Bedford Park, Lawrence Manor East;M5M;Italian Restaurant;Coffee Shop;Restaurant;Sandwich Place;Pharmacy;Sushi Restaurant;Grocery Store;Indian Restaurant;Juice Bar;Liquor Store
+61;Roselawn;M5N;Home Service;Music Venue;Garden;Electronics Store;Eastern European Restaurant;Dumpling Restaurant;Drugstore;Donut Shop;Doner Restaurant;Deli / Bodega
+62;Forest Hill North & West, Forest Hill Road Park;M5P;Jewelry Store;Park;Sushi Restaurant;Trail;Doner Restaurant;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+63;The Annex, North Midtown, Yorkville;M5R;Café;Sandwich Place;Coffee Shop;Pharmacy;BBQ Joint;Pizza Place;Pub;Middle Eastern Restaurant;Burger Joint;Donut Shop
+64;University of Toronto, Harbord;M5S;Café;Bookstore;Bar;Italian Restaurant;Japanese Restaurant;Restaurant;Bakery;Chinese Restaurant;Pub;Dessert Shop
+65;Kensington Market, Chinatown, Grange Park;M5T;Café;Coffee Shop;Mexican Restaurant;Bakery;Vietnamese Restaurant;Vegetarian / Vegan Restaurant;Dessert Shop;Arts & Crafts Store;Gaming Cafe;Bar
+66;CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst Quay, South Niagara, Island airport;M5V;Airport Service;Airport Lounge;Harbor / Marina;Boat or Ferry;Coffee Shop;Rental Car Location;Sculpture Garden;Boutique;Plane;Airport Terminal
+67;Stn A PO Boxes;M5W;Coffee Shop;Café;Italian Restaurant;Restaurant;Beer Bar;Cocktail Bar;Hotel;Seafood Restaurant;Japanese Restaurant;Creperie
+68;First Canadian Place, Underground city;M5X;Coffee Shop;Café;Hotel;Restaurant;Gym;Seafood Restaurant;American Restaurant;Steakhouse;Salad Place;Japanese Restaurant
+69;Lawrence Manor, Lawrence Heights;M6A;Furniture / Home Store;Clothing Store;Accessories Store;Vietnamese Restaurant;Miscellaneous Shop;Event Space;Boutique;Coffee Shop;Construction & Landscaping;Dim Sum Restaurant
+70;Glencairn;M6B;Pub;Bakery;Park;Japanese Restaurant;Doner Restaurant;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+71;Humewood-Cedarvale;M6C;Trail;Field;Park;Hockey Arena;Yoga Studio;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+72;Caledonia-Fairbanks;M6E;Park;Women's Store;Pool;Doner Restaurant;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+73;Christie;M6G;Grocery Store;Café;Park;Nightclub;Diner;Italian Restaurant;Restaurant;Candy Store;Athletics & Sports;Baby Store
+74;Dufferin, Dovercourt Village;M6H;Bakery;Pharmacy;Park;Furniture / Home Store;Bank;Café;Smoke Shop;Supermarket;Middle Eastern Restaurant;Music Venue
+75;Little Portugal, Trinity;M6J;Bar;Coffee Shop;Vegetarian / Vegan Restaurant;Restaurant;Café;Asian Restaurant;Men's Store;Juice Bar;Japanese Restaurant;Brewery
+76;Brockton, Parkdale Village, Exhibition Place;M6K;Café;Breakfast Spot;Performing Arts Venue;Coffee Shop;Grocery Store;Climbing Gym;Burrito Place;Stadium;Italian Restaurant;Intersection
+77;North Park, Maple Leaf Park, Upwood Park;M6L;Bakery;Park;Construction & Landscaping;Basketball Court;Yoga Studio;Donut Shop;Discount Store;Distribution Center;Dog Run;Doner Restaurant
+78;Del Ray, Mount Dennis, Keelsdale and Silverthorn;M6M;Fast Food Restaurant;Turkish Restaurant;Sandwich Place;Museum;Dog Run;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center
+79;Runnymede, The Junction North;M6N;Pizza Place;Grocery Store;Brewery;Bus Line;Doner Restaurant;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run
+80;High Park, The Junction South;M6P;Thai Restaurant;Café;Mexican Restaurant;Grocery Store;Music Venue;Cajun / Creole Restaurant;Diner;Fast Food Restaurant;Bookstore;Speakeasy
+81;Parkdale, Roncesvalles;M6R;Breakfast Spot;Gift Shop;Cuban Restaurant;Eastern European Restaurant;Dog Run;Italian Restaurant;Bar;Bank;Dessert Shop;Restaurant
+82;Runnymede, Swansea;M6S;Pizza Place;Coffee Shop;Café;Sushi Restaurant;Pub;Italian Restaurant;Scenic Lookout;Bar;Indie Movie Theater;Fish & Chips Shop
+83;Queen's Park, Ontario Provincial Government;M7A;Coffee Shop;Sushi Restaurant;Yoga Studio;Bank;Beer Bar;Smoothie Shop;Burrito Place;Sandwich Place;Café;Park
+84;Canada Post Gateway Processing Centre;M7R;Hotel;Coffee Shop;Middle Eastern Restaurant;Burrito Place;Sandwich Place;Gas Station;Intersection;American Restaurant;Fried Chicken Joint;Mediterranean Restaurant
+85;Business reply mail Processing Centre, South Central Letter Processing Plant Toronto;M7Y;Light Rail Station;Yoga Studio;Park;Smoke Shop;Brewery;Skate Park;Burrito Place;Restaurant;Recording Studio;Comic Shop
+86;New Toronto, Mimico South, Humber Bay Shores;M8V;Restaurant;Liquor Store;Bakery;Fried Chicken Joint;Seafood Restaurant;Café;American Restaurant;Fast Food Restaurant;Coffee Shop;Gym
+87;Alderwood, Long Branch;M8W;Pizza Place;Pharmacy;Gym;Coffee Shop;Sandwich Place;Skating Rink;Pub;Yoga Studio;Discount Store;Department Store
+88;The Kingsway, Montgomery Road, Old Mill North;M8X;River;Park;Smoke Shop;Yoga Studio;Dog Run;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center
+89;Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East;M8Y;Baseball Field;Yoga Studio;Donut Shop;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Drugstore;Dessert Shop
+90;Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West;M8Z;Grocery Store;Wings Joint;Social Club;Hardware Store;Discount Store;Gym;Fast Food Restaurant;Convenience Store;Bakery;Supplement Shop
+91;West Deane Park, Princess Gardens, Martin Grove, Islington, Cloverdale;M9B;Home Service;Donut Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Yoga Studio;Department Store
+92;Eringate, Bloordale Gardens, Old Burnhamthorpe, Markland Wood;M9C;Pharmacy;Coffee Shop;Liquor Store;Beer Store;Shopping Plaza;Café;Pizza Place;Park;Comfort Food Restaurant;Dessert Shop
+93;Humber Summit;M9L;Pizza Place;Doner Restaurant;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Donut Shop;College Rec Center
+94;Humberlea, Emery;M9M;Baseball Field;Yoga Studio;Donut Shop;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Drugstore;Dessert Shop
+95;Weston;M9N;Park;Yoga Studio;Donut Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Dog Run;Doner Restaurant;Drugstore
+96;Westmount;M9P;Pizza Place;Coffee Shop;Sandwich Place;Discount Store;Chinese Restaurant;Intersection;Drugstore;Donut Shop;Doner Restaurant;Deli / Bodega
+97;Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens;M9R;Pizza Place;Sandwich Place;Mobile Phone Shop;Bus Line;Department Store;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Yoga Studio
+98;South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens;M9V;Grocery Store;Pharmacy;Fast Food Restaurant;Sandwich Place;Beer Store;Fried Chicken Joint;Pizza Place;Drugstore;Dumpling Restaurant;Donut Shop
+99;Northwest, West Humber - Clairville;M9W;Rental Car Location;Drugstore;Yoga Studio;Dog Run;Dessert Shop;Dim Sum Restaurant;Diner;Discount Store;Distribution Center;Doner Restaurant
